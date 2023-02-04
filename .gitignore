@@ -70,7 +70,6 @@ https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-
 Carthage/Build/
 
 # Accio dependency management
-Dependencies/
 .accio/
 
 # fastlane
@@ -91,3 +90,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
